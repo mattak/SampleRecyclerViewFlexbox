@@ -2,4 +2,4 @@
 
 FlexboxLayoutManager sample for RecyclerView
 
-<img src="./tmp.png" width="240" />
+<img src="./art/tmp.png" width="240" />
